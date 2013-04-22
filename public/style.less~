@@ -1,0 +1,25 @@
+
+@import "flat-ui.css";
+
+@color: #a8b317;
+
+
+body{
+	background-color:#FFFFF;
+}
+h1
+{
+color:@color;
+text-align:center;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+color:@color;
+}
+a
+{
+font-size:100px;
+}
+

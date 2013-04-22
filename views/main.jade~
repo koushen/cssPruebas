@@ -3,5 +3,4 @@ extends layout
 block content 
 	div#header
 		a HOLA
-		p soy nosequien
 		h1 Que tal?
